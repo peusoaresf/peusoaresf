@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **peusoaresf/peusoaresf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a code lover that is always excited about learning new design philosophies and patterns in order to improve code readability, maintainability and extensibility, while decoupling the business core from technical definitions. My experience highlight is developing full-stack web or mobile applications using React & React Native, Node.js/Express.js, SQL/NoSQL databases such as MS SQL Server and DynamoDB, integrated with cloud services from AWS.
+
+- Also the creator of [BonaFeed](https://www.bonafeed.com.br/) :sunglasses:
